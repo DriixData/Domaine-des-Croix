@@ -40,7 +40,11 @@ Le projet comprend plusieurs étapes :
 
 📌 **Ajout des captures d'écran du dashboard :** 
 
---> Mes captures ici
+![Screeshot 1 du Dashboard](https://raw.githubusercontent.com/DriixData/Domaine-des-Croix/refs/heads/main/screenshot/Dashboard-vin-1.jpg)
+
+![Screeshot 2 du Dashboard](https://raw.githubusercontent.com/DriixData/Domaine-des-Croix/refs/heads/main/screenshot/Dashboard-vin-2.jpg)
+
+![Screeshot 3 du Dashboard](https://raw.githubusercontent.com/DriixData/Domaine-des-Croix/refs/heads/main/screenshot/Dashboard-vin-3.jpg)
 
 ---
 
